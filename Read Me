@@ -1,0 +1,7 @@
+Read Me
+
+1. Main function in the code contains various commented parameters like learning rate and number of iterations which could be used for testing the code.
+2. Similarly activation functions not being used are also commented for testing the code.
+3. To run the code just run the main function the output will print the parameters selected, total error with modified weights and the test error at the end.
+
+Note: Based on the no. of iterations printing result might take some time.
